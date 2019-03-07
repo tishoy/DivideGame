@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="uas3r68i" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="8o2i0" name="Grid.xml" path="/"/>
+    <component id="8o2i1" name="Button1.xml" path="/"/>
+    <font id="8o2i2" name="Num.fnt" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
